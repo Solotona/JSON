@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
 	"name": "Natalia",
 	"lastName": "Tokareva",
 	"quantityPet": 1,
+=======
+	"firstName": "Natalia",
+	"lastName": "Tokareva",
+	"qualityPet": 1,
+>>>>>>> f6f4dce9e861dab7e15825648bbce7a87cc90b96
 	"salaryExpected": "500 USD"
 }
