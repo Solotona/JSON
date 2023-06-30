@@ -1,7 +1,6 @@
 {
 	"favoriteFilm": "Sea Inside",
 	"favoriteSeries": "Friends",
-	"favoriteFoom": [Khinkali, Pho Bo soup, pasta],
-	"salaryExpected": [spring, summer],
-	"Country": "USA",
-}
+	"favoriteFood": [Khinkali, Pho Bo soup, pasta],
+	"favoriteSeason": [spring, summer],
+	"Country": "USA",}
